@@ -1,4 +1,4 @@
-This is currently under development and not yet ready for use. I would be glad to have contributors on this project. If you choose to, please first reach out on [Twitter] (https://twitter.com/0xAnton1) or open a GitHub issue :)
+This is currently under development and not yet ready for use. I would be glad to have contributors on this project. If you choose to, please first reach out on [Twitter](https://twitter.com/0xAnton1) or open a GitHub issue :)
 
 # Autocorrect and Auto Suggestions
 
